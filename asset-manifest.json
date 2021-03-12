@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YashMunjal/Pokedex-problem/static/css/main.d8e40eb6.chunk.css",
+    "main.js": "/YashMunjal/Pokedex-problem/static/js/main.aaff7ddf.chunk.js",
+    "main.js.map": "/YashMunjal/Pokedex-problem/static/js/main.aaff7ddf.chunk.js.map",
+    "runtime-main.js": "/YashMunjal/Pokedex-problem/static/js/runtime-main.02b889cd.js",
+    "runtime-main.js.map": "/YashMunjal/Pokedex-problem/static/js/runtime-main.02b889cd.js.map",
+    "static/js/2.d03cb33f.chunk.js": "/YashMunjal/Pokedex-problem/static/js/2.d03cb33f.chunk.js",
+    "static/js/2.d03cb33f.chunk.js.map": "/YashMunjal/Pokedex-problem/static/js/2.d03cb33f.chunk.js.map",
+    "static/js/3.574089ab.chunk.js": "/YashMunjal/Pokedex-problem/static/js/3.574089ab.chunk.js",
+    "static/js/3.574089ab.chunk.js.map": "/YashMunjal/Pokedex-problem/static/js/3.574089ab.chunk.js.map",
+    "index.html": "/YashMunjal/Pokedex-problem/index.html",
+    "static/css/main.d8e40eb6.chunk.css.map": "/YashMunjal/Pokedex-problem/static/css/main.d8e40eb6.chunk.css.map",
+    "static/js/2.d03cb33f.chunk.js.LICENSE.txt": "/YashMunjal/Pokedex-problem/static/js/2.d03cb33f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02b889cd.js",
+    "static/js/2.d03cb33f.chunk.js",
+    "static/css/main.d8e40eb6.chunk.css",
+    "static/js/main.aaff7ddf.chunk.js"
+  ]
+}
