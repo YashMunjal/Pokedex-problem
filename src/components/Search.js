@@ -75,8 +75,8 @@ function Search() {
         </div>
       )}
 
-      <button onClick={updatePagePrev}>Previous</button>
-      <button onClick={updatePageNext}>Next</button>
+      <button onClick={updatePagePrev} className="pagination" style={{height:30+'px' , width:100+'px'}}>Previous</button>
+      <button onClick={updatePageNext} className="pagination" style={{height:30+'px' , width:100+'px'}}>Next</button>
     </div>
   );
 }
